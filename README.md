@@ -61,3 +61,13 @@ With version control, it is possible to:
 - `git branch`: show all branches
 - `git merge`: Merge branches
 - `git checkout`: Switch branch 
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I have heart condition
+- I played football in hight school
+- I have an undergraduate degree in Criminology
+- I have double jointed wrists
+
