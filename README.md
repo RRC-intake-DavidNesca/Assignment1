@@ -49,3 +49,15 @@ With version control, it is possible to:
 - Allows for users to better manage large project by simplifying commands
 - Increases save storage space for larger projects
 
+## Purpose of the following Git Commands
+
+- `git init`: Initializes the git Repository 
+- `git status`: Gets the status of git Repository 
+- `git add`: Add files to the staging area 
+- `git commit`: Commit a message to Repository 
+- `git push`: push something to the remote Repository 
+- `git pull`: Pull something from the remote Repository
+- `git log`: Displays log of the Repository 
+- `git branch`: show all branches
+- `git merge`: Merge branches
+- `git checkout`: Switch branch 
