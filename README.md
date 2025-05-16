@@ -1,7 +1,10 @@
 # COMP-1327 Assignment 1
 
 ## Description
-
+In this project I hope to showcase my current understanding of:
+- Setting up projects
+- using various git commands 
+- setting up a repository 
 
 ## Author
 David Anthony Nesca
